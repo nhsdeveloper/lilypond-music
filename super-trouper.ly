@@ -1,4 +1,3 @@
-% Star Wars
 % https://nhs.io/sonicpi/
 
 
